@@ -1,10 +1,10 @@
 # AI-Project: Lab (Group 7)
 # Project Submitted By : Nazmus Sadat Shohag
 ## Team Members
-- 2018331099: Nazmus Sadat
+ - 2018331099: Nazmus Sadat
 - 2018331097: Aisha Hayder Chowdhury
-##  Description
-A heart disease prediction system that can predict whether a person has heart disease or not. In this AI system, we provide information about patients, and our system predicts the result.
+#  Description
+### A heart disease prediction system that can predict whether a person has heart disease or not. In this AI system, we provide information about patients, and our system predicts the result. We have built machine learning models and designed the frontend with pythons framework streamlit and integrated the prebuilt ML model into the frontend.
 
 ## Overview
 
