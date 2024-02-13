@@ -59,10 +59,10 @@ We would like to offer our heartfelt appreciation to our project manager, **Enam
 
 # Demo of our project are :
 ### Screenshot 1 :
-![ScreenShot1_Demo of app](https://github.com/nsshohag/heart_disease_prediction/screenshot1.PNG)
+![ScreenShot1_Demo of app](https://github.com/nsshohag/heart_disease_prediction/blob/main/screenshot1.PNG)
 
 ### Screenshot 2 :
-![ScreenShot2_Demo of app](https://github.com/nsshohag/heart_disease_prediction/screenshot2.PNG)
+![ScreenShot2_Demo of app](https://github.com/nsshohag/heart_disease_prediction/blob/main/screenshot2.PNG)
 
 ### Screenshot 3 :
-![ScreenShot3_Demo of app](https://github.com/nsshohag/heart_disease_prediction/screenshot3.PNG)
+![ScreenShot3_Demo of app](https://github.com/nsshohag/heart_disease_prediction/blob/main/screenshot3.PNG)
